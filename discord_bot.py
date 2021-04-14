@@ -153,4 +153,4 @@ async def on_reaction_add(reaction, user):
 async def on_ready():
     await client.change_presence(status=discord.Status.online, activity = discord.Game('Among Us'))
 
-client.run('ODA1NTgzODY3NDI2NzY2ODQ5.YBdAcQ.10ietcIA1ApWPAYc3RS5WDuip70')
+client.run('ENTER_TOKEN_HERE')
